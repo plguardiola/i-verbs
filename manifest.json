@@ -1,0 +1,7 @@
+{
+  "name": "i-verbs",
+  "short_name": "i-verbs",
+  "description": "Tests to learn English irregular verbs",
+  "start_url": "/",
+  "display": "standalone"
+}
