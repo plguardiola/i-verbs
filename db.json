@@ -1,0 +1,604 @@
+{
+    "verbs": [
+        {
+            "infinitive": "be",
+            "past": "was / were",
+            "participle": "been",
+            "meaning": "ser, estar"
+        },
+        {
+            "infinitive": "beat",
+            "past": "beat",
+            "participle": "beaten",
+            "meaning": "golpear"
+        },
+        {
+            "infinitive": "become",
+            "past": "became",
+            "participle": "become",
+            "meaning": "llegar a ser"
+        },
+        {
+            "infinitive": "begin",
+            "past": "began",
+            "participle": "begun",
+            "meaning": "empezar"
+        },
+        {
+            "infinitive": "bend",
+            "past": "bent",
+            "participle": "bent",
+            "meaning": "doblar, flexionar"
+        },
+        {
+            "infinitive": "bite",
+            "past": "bit",
+            "participle": "bitten",
+            "meaning": "morder"
+        },
+        {
+            "infinitive": "bleed",
+            "past": "bled",
+            "participle": "bled",
+            "meaning": "sangrar"
+        },
+        {
+            "infinitive": "blow",
+            "past": "blew",
+            "participle": "blown",
+            "meaning": "soplar"
+        },
+        {
+            "infinitive": "break",
+            "past": "broke",
+            "participle": "broken",
+            "meaning": "romper"
+        },
+        {
+            "infinitive": "bring",
+            "past": "brought",
+            "participle": "brought",
+            "meaning": "traer, llevar"
+        },
+        {
+            "infinitive": "build",
+            "past": "built",
+            "participle": "built",
+            "meaning": "construir"
+        },
+        {
+            "infinitive": "burn",
+            "past": "burnt",
+            "participle": "burnt",
+            "meaning": "quemar"
+        },
+        {
+            "infinitive": "buy",
+            "past": "bought",
+            "participle": "bought",
+            "meaning": "comprar"
+        },
+        {
+            "infinitive": "catch",
+            "past": "caught",
+            "participle": "caught",
+            "meaning": "coger, atrapar"
+        },
+        {
+            "infinitive": "choose",
+            "past": "chose",
+            "participle": "chosen",
+            "meaning": "elegir"
+        },
+        {
+            "infinitive": "come",
+            "past": "came",
+            "participle": "come",
+            "meaning": "venir"
+        },
+        {
+            "infinitive": "cost",
+            "past": "cost",
+            "participle": "cost",
+            "meaning": "costar"
+        },
+        {
+            "infinitive": "cut",
+            "past": "cut",
+            "participle": "cut",
+            "meaning": "cortar"
+        },
+        {
+            "infinitive": "deal",
+            "past": "dealt",
+            "participle": "dealt",
+            "meaning": "tratar"
+        },
+        {
+            "infinitive": "dig",
+            "past": "dug",
+            "participle": "dug",
+            "meaning": "cavar, excavar"
+        },
+        {
+            "infinitive": "do",
+            "past": "did",
+            "participle": "done",
+            "meaning": "hacer"
+        },
+        {
+            "infinitive": "draw",
+            "past": "drew",
+            "participle": "drawn",
+            "meaning": "dibujar"
+        },
+        {
+            "infinitive": "dream",
+            "past": "dreamt",
+            "participle": "dreamt",
+            "meaning": "soñar"
+        },
+        {
+            "infinitive": "drink",
+            "past": "drank",
+            "participle": "drunk",
+            "meaning": "beber"
+        },
+        {
+            "infinitive": "drive",
+            "past": "drove",
+            "participle": "driven",
+            "meaning": "conducir"
+        },
+        {
+            "infinitive": "eat",
+            "past": "ate",
+            "participle": "eaten",
+            "meaning": "comer"
+        },
+        {
+            "infinitive": "fall",
+            "past": "fell",
+            "participle": "fallen",
+            "meaning": "caer"
+        },
+        {
+            "infinitive": "feed",
+            "past": "fed",
+            "participle": "fed",
+            "meaning": "alimentar"
+        },
+        {
+            "infinitive": "feel",
+            "past": "felt",
+            "participle": "felt",
+            "meaning": "sentir"
+        },
+        {
+            "infinitive": "fight",
+            "past": "fought",
+            "participle": "fought",
+            "meaning": "luchar"
+        },
+        {
+            "infinitive": "find",
+            "past": "found",
+            "participle": "found",
+            "meaning": "encontrar"
+        },
+        {
+            "infinitive": "fly",
+            "past": "flew",
+            "participle": "flown",
+            "meaning": "volar"
+        },
+        {
+            "infinitive": "forbid",
+            "past": "forbade",
+            "participle": "forbidden",
+            "meaning": "prohibir"
+        },
+        {
+            "infinitive": "forget",
+            "past": "forgot",
+            "participle": "forgotten",
+            "meaning": "olvidar"
+        },
+        {
+            "infinitive": "forgive",
+            "past": "forgave",
+            "participle": "forgiven",
+            "meaning": "perdonar"
+        },
+        {
+            "infinitive": "freeze",
+            "past": "froze",
+            "participle": "frozen",
+            "meaning": "congelar (se)"
+        },
+        {
+            "infinitive": "get",
+            "past": "got",
+            "participle": "got",
+            "meaning": "obtener"
+        },
+        {
+            "infinitive": "give",
+            "past": "gave",
+            "participle": "given",
+            "meaning": "dar"
+        },
+        {
+            "infinitive": "go",
+            "past": "went",
+            "participle": "gone",
+            "meaning": "ir"
+        },
+        {
+            "infinitive": "grow",
+            "past": "grew",
+            "participle": "grown",
+            "meaning": "crecer, cultivar"
+        },
+        {
+            "infinitive": "hang",
+            "past": "hung",
+            "participle": "hung",
+            "meaning": "colgar"
+        },
+        {
+            "infinitive": "have",
+            "past": "had",
+            "participle": "had",
+            "meaning": "tener"
+        },
+        {
+            "infinitive": "hear",
+            "past": "heard",
+            "participle": "heard",
+            "meaning": "oir"
+        },
+        {
+            "infinitive": "hide",
+            "past": "hid",
+            "participle": "hidden",
+            "meaning": "ocultar (se)"
+        },
+        {
+            "infinitive": "hit",
+            "past": "hit",
+            "participle": "hit",
+            "meaning": "golpear"
+        },
+        {
+            "infinitive": "hold",
+            "past": "held",
+            "participle": "held",
+            "meaning": "sostener"
+        },
+        {
+            "infinitive": "hurt",
+            "past": "hurt",
+            "participle": "hurt",
+            "meaning": "herir"
+        },
+        {
+            "infinitive": "keep",
+            "past": "kept",
+            "participle": "kept",
+            "meaning": "guardar"
+        },
+        {
+            "infinitive": "kneel",
+            "past": "knelt",
+            "participle": "knelt",
+            "meaning": "arrodillarse"
+        },
+        {
+            "infinitive": "know",
+            "past": "knew",
+            "participle": "known",
+            "meaning": "saber, conocer"
+        },
+        {
+            "infinitive": "learn",
+            "past": "learnt",
+            "participle": "learnt",
+            "meaning": "aprender"
+        },
+        {
+            "infinitive": "leave",
+            "past": "left",
+            "participle": "left",
+            "meaning": "abandonar, salir"
+        },
+        {
+            "infinitive": "lend",
+            "past": "lent",
+            "participle": "lent",
+            "meaning": "prestar"
+        },
+        {
+            "infinitive": "let",
+            "past": "let",
+            "participle": "let",
+            "meaning": "dejar, permitir"
+        },
+        {
+            "infinitive": "light",
+            "past": "lit",
+            "participle": "lit",
+            "meaning": "encender"
+        },
+        {
+            "infinitive": "lose",
+            "past": "lost",
+            "participle": "lost",
+            "meaning": "perder"
+        },
+        {
+            "infinitive": "make",
+            "past": "made",
+            "participle": "made",
+            "meaning": "hacer, fabricar"
+        },
+        {
+            "infinitive": "mean",
+            "past": "meant",
+            "participle": "meant",
+            "meaning": "significar"
+        },
+        {
+            "infinitive": "meet",
+            "past": "met",
+            "participle": "met",
+            "meaning": "reunirse"
+        },
+        {
+            "infinitive": "pay",
+            "past": "paid",
+            "participle": "paid",
+            "meaning": "pagar"
+        },
+        {
+            "infinitive": "put",
+            "past": "put",
+            "participle": "put",
+            "meaning": "poner"
+        },
+        {
+            "infinitive": "read",
+            "past": "read /red/",
+            "participle": "read /red/",
+            "meaning": "leer"
+        },
+        {
+            "infinitive": "ride",
+            "past": "rode",
+            "participle": "ridden",
+            "meaning": "montar, cabalgar"
+        },
+        {
+            "infinitive": "ring",
+            "past": "rang",
+            "participle": "rung",
+            "meaning": "sonar"
+        },
+        {
+            "infinitive": "rise",
+            "past": "rose",
+            "participle": "risen",
+            "meaning": "levantarse"
+        },
+        {
+            "infinitive": "run",
+            "past": "ran",
+            "participle": "run",
+            "meaning": "correr"
+        },
+        {
+            "infinitive": "say",
+            "past": "said",
+            "participle": "said",
+            "meaning": "decir"
+        },
+        {
+            "infinitive": "see",
+            "past": "saw",
+            "participle": "seen",
+            "meaning": "ver"
+        },
+        {
+            "infinitive": "sell",
+            "past": "sold",
+            "participle": "sold",
+            "meaning": "vender"
+        },
+        {
+            "infinitive": "send",
+            "past": "sent",
+            "participle": "sent",
+            "meaning": "enviar"
+        },
+        {
+            "infinitive": "shake",
+            "past": "shook",
+            "participle": "shaken",
+            "meaning": "sacudir"
+        },
+        {
+            "infinitive": "shoot",
+            "past": "shot",
+            "participle": "shot",
+            "meaning": "disparar"
+        },
+        {
+            "infinitive": "show",
+            "past": "showed",
+            "participle": "shown",
+            "meaning": "mostrar"
+        },
+        {
+            "infinitive": "shut",
+            "past": "shut",
+            "participle": "shut",
+            "meaning": "cerrar"
+        },
+        {
+            "infinitive": "sing",
+            "past": "sang",
+            "participle": "sung",
+            "meaning": "cantar"
+        },
+        {
+            "infinitive": "sink",
+            "past": "sank",
+            "participle": "sunk",
+            "meaning": "hundir (se)"
+        },
+        {
+            "infinitive": "sit",
+            "past": "sat",
+            "participle": "sat",
+            "meaning": "sentarse"
+        },
+        {
+            "infinitive": "sleep",
+            "past": "slept",
+            "participle": "slept",
+            "meaning": "dormir"
+        },
+        {
+            "infinitive": "smell",
+            "past": "smelt",
+            "participle": "smelt",
+            "meaning": "oler"
+        },
+        {
+            "infinitive": "speak",
+            "past": "spoke",
+            "participle": "spoken",
+            "meaning": "hablar"
+        },
+        {
+            "infinitive": "spell",
+            "past": "spelt",
+            "participle": "spelt",
+            "meaning": "deletrear"
+        },
+        {
+            "infinitive": "spend",
+            "past": "spent",
+            "participle": "spent",
+            "meaning": "gastar"
+        },
+        {
+            "infinitive": "stand",
+            "past": "stood",
+            "participle": "stood",
+            "meaning": "estar de pie"
+        },
+        {
+            "infinitive": "steal",
+            "past": "stole",
+            "participle": "stolen",
+            "meaning": "robar"
+        },
+        {
+            "infinitive": "stick",
+            "past": "stuck",
+            "participle": "stuck",
+            "meaning": "pegar"
+        },
+        {
+            "infinitive": "swear",
+            "past": "swore",
+            "participle": "sworn",
+            "meaning": "jurar"
+        },
+        {
+            "infinitive": "sweep",
+            "past": "swept",
+            "participle": "swept",
+            "meaning": "barrer"
+        },
+        {
+            "infinitive": "swim",
+            "past": "swam",
+            "participle": "swum",
+            "meaning": "nadar"
+        },
+        {
+            "infinitive": "take",
+            "past": "took",
+            "participle": "taken",
+            "meaning": "coger"
+        },
+        {
+            "infinitive": "teach",
+            "past": "taught",
+            "participle": "taught",
+            "meaning": "enseñar"
+        },
+        {
+            "infinitive": "tear",
+            "past": "tore",
+            "participle": "torn",
+            "meaning": "rasgar"
+        },
+        {
+            "infinitive": "tell",
+            "past": "told",
+            "participle": "told",
+            "meaning": "decir"
+        },
+        {
+            "infinitive": "think",
+            "past": "thought",
+            "participle": "thought",
+            "meaning": "pensar"
+        },
+        {
+            "infinitive": "throw",
+            "past": "threw",
+            "participle": "thrown",
+            "meaning": "lanzar"
+        },
+        {
+            "infinitive": "understand",
+            "past": "understood",
+            "participle": "understood",
+            "meaning": "comprender"
+        },
+        {
+            "infinitive": "wake",
+            "past": "woke",
+            "participle": "woken",
+            "meaning": "despertar (se)"
+        },
+        {
+            "infinitive": "wear",
+            "past": "wore",
+            "participle": "worn",
+            "meaning": "llevar puesto"
+        },
+        {
+            "infinitive": "weep",
+            "past": "wept",
+            "participle": "wept",
+            "meaning": "llorar"
+        },
+        {
+            "infinitive": "win",
+            "past": "won",
+            "participle": "won",
+            "meaning": "ganar"
+        },
+        {
+            "infinitive": "write",
+            "past": "wrote",
+            "participle": "written",
+            "meaning": "escribir"
+        }
+    ]
+}
